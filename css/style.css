@@ -1,0 +1,17 @@
+ul {
+    background-color: navy;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: space-around;
+    list-style: none;
+}
+li {
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
